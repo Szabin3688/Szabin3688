@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Szabin
-- 👀 I’m interested in web and shell development
+- 👀 I’m interested in web and shell and microcontroller development
 - 🌱 I’m currently learning web design
 - 📫 You can communicate with me on my email at: bartisszabin04@gmail.com or on my social media :)
 
