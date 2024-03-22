@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Szabin
 - 👀 I’m interested in web and shell and microcontroller development
-- 🌱 I’m currently learning web design, and programming
+- 🌱 I’m currently learnincs electronics, IT Networking and system administration
 - 📫 You can communicate with me on my email at: bartisszabin04@gmail.com or on my social media :)
 - You can find my social media platforms @ linkt.ee/b.szabin
 
